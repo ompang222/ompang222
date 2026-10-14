@@ -26,6 +26,7 @@
 | [K-DANCE-CHALLENGE](https://github.com/ompang222/portfolio/tree/main/02_k-dance-challenge) | 동작 인식 댄스 챌린지 — 기획 담당, 랭킹·마이페이지 구현 | 동양미래EXPO 2024 |
 | [MLB 팀 기록 분석](https://github.com/ompang222/portfolio/tree/main/04_mlb-data-analysis) | 승리를 만드는 건 득실차·OPS·연봉 중 무엇인가 | **OPS R² 0.91 · 연봉 R² 0.13** |
 | [2026 KBO 가을야구 우승 확률](https://github.com/ompang222/portfolio/tree/main/05_kbo-2026-postseason) | 득실점·Log5·실제 대진으로 우승 확률 예측 | **KT 59% · 10만 회 시뮬레이션** |
+| [2026-27 챔피언스리그 우승 확률](https://github.com/ompang222/portfolio/tree/main/06_ucl-2026-27) · [▶ 대시보드](https://ompang222.github.io/portfolio/06_ucl-2026-27/) | 부상까지 반영해 경기별 승률·스코어를 예측하고 시즌 중 자동 갱신 | **3만 회 시뮬레이션 · 실시간 갱신** |
 | [수업 데이터 분석](https://github.com/ompang222/portfolio/tree/main/03_class-projects) | 범죄 공공데이터·타이타닉 분석 | pandas · matplotlib |
 
 ## 🏆 수상 · 활동
